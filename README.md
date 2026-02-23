@@ -2,7 +2,7 @@
 
 
 
-# 3️⃣ Password Strength Checker – README.md
+# 3️ Password Strength Checker – README.md
 
 
 # 🔑 Password Strength Analyzer
