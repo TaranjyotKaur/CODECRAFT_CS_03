@@ -1,10 +1,6 @@
 # CODECRAFT_CS_03
 
 
-
-# 3️ Password Strength Checker – README.md
-
-
 # 🔑 Password Strength Analyzer
 
 A Python-based tool that evaluates password strength based on complexity rules and provides improvement suggestions.
