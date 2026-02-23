@@ -1,7 +1,6 @@
 # CODECRAFT_CS_03
 
 
----
 
 # 3️⃣ Password Strength Checker – README.md
 
@@ -25,14 +24,13 @@ It generates:
 - Strength classification
 - Feedback suggestions
 
----
+
 
 ## 🛠 Technologies Used
 
 - Python 3
 - Regular Expressions (re module)
 
----
 
 ## ▶️ How to Run
 
